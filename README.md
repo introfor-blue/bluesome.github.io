@@ -1,4 +1,7 @@
 # bluesome.github.io
+Hello, This is my blog for showing my life.
+
+i can upload somethings i learned.
 
 <pre>
 <code>
